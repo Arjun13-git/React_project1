@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Homepage from './pages/Homepage';
-import Categories from './pages/Categories';
-import Cart from './components/Cart';
-import Gallery from './pages/Gallery';  // Gallery Page Import
-import AboutUs from './pages/AboutUs';  // About Us Page Import
-import Header from './components/Header';
-import Footer from './components/Footer';
+import Homepage from './Homepage';
+import Categories from './Categories';
+import Cart from './Cart';
+import Gallery from './Gallery';  // Gallery Page Import
+import AboutUs from './AboutUs';  // About Us Page Import
+import Header from './Header';
+import Footer from './Footer';
 
 import './App.css';
 
