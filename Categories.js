@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
-import chocolateImg from '../images/chocolate.jpg';
-import chocolateFudgeImg from '../images/chocolate_fudge.jpeg';
-import fruitImg from '../images/fruit.jpeg';
-import vanillaImg from '../images/vanilla.jpeg';
-import pineappleImg from '../images/pineapple.jpg';
-import butterscotchImg from '../images/butterscotch.jpg';
-import redVelvetImg from '../images/red_velvet.jpeg';
-import berryBlastImg from '../images/berry_blast.jpeg';
+import chocolateImg from '../chocolate.jpg';
+import chocolateFudgeImg from '../chocolate_fudge.jpeg';
+import fruitImg from '../fruit.jpeg';
+import vanillaImg from '../vanilla.jpeg';
+import pineappleImg from '../pineapple.jpg';
+import butterscotchImg from '../butterscotch.jpg';
+import redVelvetImg from '../red_velvet.jpeg';
+import berryBlastImg from '../berry_blast.jpeg';
 
 const cakes = [
   { id: 1, name: 'Chocolate Cake', price: 20, image: chocolateImg },
