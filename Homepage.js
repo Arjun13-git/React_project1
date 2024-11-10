@@ -1,11 +1,11 @@
 import React from 'react';
-import birthdayCakeImg from '../birthday_cake.jpeg';
-import weddingCakeImg from '../wedding_cake.jpg';
-// import customCakeImg from '../custom_cake.jpg'; // Add image for Custom Cakes
-import fruitCakeImg from '../fruit.jpeg'; // Add image for Fruit Cakes
-import plumCakeImg from '../christmas_plum_cake.jpeg'; // Add image for Plum Cakes
-import browniesImg from '../brownies.jpeg'; // Add image for Brownies
-import cookiesImg from '../cookies.jpg'; // Add image for Cookies
+import birthdayCakeImg from '../images/birthday_cake.jpeg';
+import weddingCakeImg from '../images/wedding_cake.jpg';
+// import customCakeImg from '../images/custom_cake.jpg'; // Add image for Custom Cakes
+import fruitCakeImg from '../images/fruit.jpeg'; // Add image for Fruit Cakes
+import plumCakeImg from '../images/christmas_plum_cake.jpeg'; // Add image for Plum Cakes
+import browniesImg from '../images/brownies.jpeg'; // Add image for Brownies
+import cookiesImg from '../images/cookies.jpg'; // Add image for Cookies
 
 function Homepage() {
   // Define an array of cake categories and images
