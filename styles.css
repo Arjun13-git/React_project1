@@ -8,7 +8,7 @@
   
   /* Background Image for All Pages */
   body {
-    background-image: url('./Heavenly_Bakes.png'); /* Path to the image */
+    background-image: url('./images/Heavenly_Bakes.png'); /* Path to the image */
     background-size: cover;  /* Cover ensures the image covers the entire viewport */
     background-position: center center;  /* Keeps the image centered */
     filter: brightness(1);
